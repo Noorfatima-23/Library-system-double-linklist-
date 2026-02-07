@@ -148,7 +148,7 @@ int main()
 
     do
     {
-        cout << "\n===== PLAYLIST MENU =====\n";
+        cout << "-------- PLAYLIST MENU------------"<<endl;
         cout << "1 Insert Song\n";
         cout << "2 Search Song\n";
         cout << "3 Modify Song\n";
@@ -182,4 +182,5 @@ int main()
 
     return 0;
 }
+
 
